@@ -1,0 +1,18 @@
+.card{
+    width: 18rem;
+    height: auto;
+    border: 2px solid black;
+    box-shadow: 0 0 10px 1px rgba(14, 10, 10, 1);  
+    transition:all 0.3s ease;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+}
+.card-link{
+    margin-top: auto;
+}
+
+.card:hover{
+    transform: scale(1.02); 
+}
