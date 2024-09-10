@@ -1,8 +1,8 @@
 import React from 'react';
-import Navbar from 'src/Navbar'
-import 'src/App.css';
-import platforms from 'src/Data';
-import Card from 'src/Card';
+import Navbar from './Navbar'
+import './App.css';
+import platforms from './Data';
+import Card from './Card';
 
 const App = () => {
   return (
