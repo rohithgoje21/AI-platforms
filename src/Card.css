@@ -2,7 +2,7 @@
     width: 18rem;
     height: auto;
     border: 2px solid black;
-    box-shadow: 0 0 10px 1px rgba(14, 10, 10, 1);  
+    box-shadow: 0 0 6px 3px #bfc3cf;
     transition:all 0.3s ease;
 }
 .card-body{
@@ -12,7 +12,13 @@
 .card-link{
     margin-top: auto;
 }
-
+.card-link:hover{
+    box-shadow: 0 0 6px 3px #bfc3cf;
+}
 .card:hover{
     transform: scale(1.02); 
+}
+.card-img{
+    height: 200px;
+    object-fit: cover;
 }
