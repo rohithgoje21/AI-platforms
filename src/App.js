@@ -1,8 +1,9 @@
-import React from 'react';
-import Navbar from './Navbar'
-import './App.css';
-import platforms from './Data';
-import Card from './Card';
+import React from "react";
+import Navbar from "./Navbar";
+import "./App.css";
+import platforms from "./Data";
+import Card from "./Card";
+import Footer from "./Footer";
 
 const App = () => {
   return (
@@ -21,8 +22,9 @@ const App = () => {
           ))}
         </div>
       </div>
+      <Footer></Footer>
     </>
   );
-}
+};
 
 export default App;
