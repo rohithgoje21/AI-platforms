@@ -27,7 +27,7 @@ const platforms = [
     description:
       "A library for state-of-the-art NLP, providing pre-trained models and tools to use them.",
     image:
-      "https://www.freecodecamp.org/news/content/images/2024/01/hugging-face.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmjEBevfH7YP-AnIbZrxkvnBfXRsAP5EvhQ&s",
     link: "https://huggingface.co/transformers",
   },
   {
@@ -88,7 +88,8 @@ const platforms = [
     title: "TabNine",
     description:
       "An AI-powered code completion tool that enhances code writing by predicting and suggesting the next code segments based on context.",
-    image: "https://pbs.twimg.com/profile_images/1785337827787726848/6UeBPcDU_400x400.png",
+    image:
+      "https://pbs.twimg.com/profile_images/1785337827787726848/6UeBPcDU_400x400.png",
     link: "https://www.tabnine.com/",
   },
   {
@@ -102,14 +103,16 @@ const platforms = [
     title: "DeepCode",
     description:
       "An AI-driven code review tool that automatically analyzes code to identify potential bugs, security vulnerabilities, and other issues.",
-    image: "https://cdn.prod.website-files.com/644238b1cf656a0846763003/6489b989851a55ebceb3ca78_SnykIcon.png",
+    image:
+      "https://cdn.prod.website-files.com/644238b1cf656a0846763003/6489b989851a55ebceb3ca78_SnykIcon.png",
     link: "https://www.deepcode.ai/",
   },
   {
     title: "Snyk",
     description:
       "An AI-powered security tool that helps developers find and fix vulnerabilities in their code and open source dependencies.",
-    image: "https://cdn.prod.website-files.com/644238b1cf656a0846763003/6489b97039eaf708d4df4cfd_SnykCover.png",
+    image:
+      "https://cdn.prod.website-files.com/644238b1cf656a0846763003/6489b97039eaf708d4df4cfd_SnykCover.png",
     link: "https://snyk.io/",
   },
   {
