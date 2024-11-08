@@ -23,6 +23,14 @@ const platforms = [
     link: "https://www.ibm.com/watson",
   },
   {
+    title: "Snyk",
+    description:
+      "An AI-powered security tool that helps developers find and fix vulnerabilities in their code and open source dependencies.",
+    image:
+      "https://cdn.prod.website-files.com/644238b1cf656a0846763003/6489b97039eaf708d4df4cfd_SnykCover.png",
+    link: "https://snyk.io/",
+  },
+  {
     title: "Hugging Face Transformers",
     description:
       "A library for state-of-the-art NLP, providing pre-trained models and tools to use them.",
@@ -43,7 +51,7 @@ const platforms = [
     description:
       "Azure AI services and tools for building AI solutions using machine learning and deep learning.",
     image: "https://logowik.com/content/uploads/images/microsoft-azure7662.jpg",
-    link: "https://azure.microsoft.com/en-us/services/ai/",
+    link: "https://azure.microsoft.com/en-us/solutions/ai/",
   },
   {
     title: "Caffe",
@@ -106,14 +114,6 @@ const platforms = [
     image:
       "https://cdn.prod.website-files.com/644238b1cf656a0846763003/6489b989851a55ebceb3ca78_SnykIcon.png",
     link: "https://www.deepcode.ai/",
-  },
-  {
-    title: "Snyk",
-    description:
-      "An AI-powered security tool that helps developers find and fix vulnerabilities in their code and open source dependencies.",
-    image:
-      "https://cdn.prod.website-files.com/644238b1cf656a0846763003/6489b97039eaf708d4df4cfd_SnykCover.png",
-    link: "https://snyk.io/",
   },
   {
     title: "Sourcery",
