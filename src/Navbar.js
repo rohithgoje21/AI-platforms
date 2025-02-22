@@ -9,7 +9,7 @@ export default function ColorSchemesExample() {
         <Container>
           <Navbar.Brand href="/">AI-Platforms</Navbar.Brand>
           <Nav className="">
-            <Toggle></Toggle>
+            <Toggle/>
           </Nav>
         </Container>
       </Navbar>
